@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/afzaalkarim686-a11y/afzaalkarim686-a11y/main/banner.png" alt="Afzaal Karim Banner" width="100%">
 </p>
 
+
 # 👋 Hi, I'm Afzaal Karim
 
 🚀 **Student & Freelancer** | AI Learner | Python Developer  
